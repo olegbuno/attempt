@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4b35810-c24a-4b90-aa3a-e276bc7c1874" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1WweI8Eai9KikyNalMp3kvDe3TA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loc.house.com" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\OSPanel\domains\loc.house.com\modules\game" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\OSPanel\domains\loc.house.com\skins\default\game" />
+      <recent name="D:\IT\OSPanel\domains\loc.house.com\modules\game" />
+      <recent name="D:\IT\OSPanel\domains\loc.house.com\skins\default\game\gameover" />
+      <recent name="D:\IT\OSPanel\domains\loc.house.com\modules\game\gameover" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b35810-c24a-4b90-aa3a-e276bc7c1874" name="Default Changelist" comment="" />
+      <created>1580065001280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580065001280</updated>
+      <workItem from="1580065002695" duration="8503000" />
+      <workItem from="1580093894132" duration="8509000" />
+      <workItem from="1581281588707" duration="1795000" />
+      <workItem from="1582063482716" duration="9226000" />
+      <workItem from="1582469149483" duration="12618000" />
+      <workItem from="1582750957721" duration="6656000" />
+      <workItem from="1583494452060" duration="1254000" />
+      <workItem from="1583498219771" duration="8413000" />
+      <workItem from="1584902601037" duration="1638000" />
+      <workItem from="1585739701200" duration="1162000" />
+      <workItem from="1586449817986" duration="605000" />
+      <workItem from="1586451594386" duration="1794000" />
+      <workItem from="1586453420640" duration="1799000" />
+      <workItem from="1586523214604" duration="1004000" />
+      <workItem from="1586606835920" duration="1790000" />
+      <workItem from="1586608642458" duration="1805000" />
+      <workItem from="1586610507551" duration="1806000" />
+      <workItem from="1586612326443" duration="1012000" />
+      <workItem from="1586614139040" duration="1794000" />
+      <workItem from="1586615946701" duration="528000" />
+      <workItem from="1586732501464" duration="1791000" />
+      <workItem from="1586734521637" duration="1901000" />
+      <workItem from="1586736467402" duration="1813000" />
+      <workItem from="1586738492291" duration="879000" />
+      <workItem from="1587591466602" duration="1796000" />
+      <workItem from="1587593354656" duration="1793000" />
+      <workItem from="1587595177000" duration="1794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1586738523186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586738523186" />
+    <state x="477" y="265" key="NewPhpFileDialog" timestamp="1587593964129">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="265" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1587593964129" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587595176789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587595176789" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1583504670951">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1583504670950" />
+  </component>
+</project>
